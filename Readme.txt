@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Nazareth
+Template URL: https://jockykay.com/Nazareth-Hospital/
+Author: Jockykay.com
+License: https://jockykay.com/license/
